@@ -1,11 +1,11 @@
 # :scroll: Desafio Prático Studio Sol e Letras
 
-O intuito desse desafio é identificar o clima da cidade pesquisada através do Open Wheater. Lembrando que será necessário criar uma conta e uma API_KEY para conseguir consumir a API. 
+O intuito desse desafio é identificar o clima da cidade pesquisada através do [Open Weather](https://openweathermap.org). Lembrando que será necessário criar uma conta e uma API_KEY para conseguir consumir a API. 
 
 #  ⚙️Funcionalidades
 
 ✅Barra de pesquisa carrega a cidade com auto complete.
-✅Dados Printados na tela de acordo com o quem vem da api Open Weather.
+✅Dados Printados na tela de acordo com o quem vem da api [Open Weather](https://openweathermap.org).
 ✅ Ao clicar na seta de voltar, usuário volta para a tela anterior.
 ✅ Previsão do tempo para os próximos 5 dias
 ✅ Escolha de escala de grau: Celsius ou Fahrenheit.
