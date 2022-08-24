@@ -1,6 +1,6 @@
 # :scroll: Desafio Prático Studio Sol e Letras
 
-O objetivo deste desafio é avaliar o domínio das habilidades Front-end, a organização, estilo, e boas práticas com código, consumo de APIs Open Weather e Google Places, conhecimento de frameworks e tecnologias.
+O intuito desse desafio é identificar o clima da cidade pesquisada através do Open Wheater. Lembrando que será necessário criar uma conta e uma API_KEY para conseguir consumir a API. 
 
 #  ⚙️Funcionalidades
 
