@@ -1,6 +1,7 @@
-# :scroll: Desafio Prático Studio Sol e Letras
+<h1 align="center"> :scroll: Desafio Prático Studio Sol e Letras </h1>
 
-O intuito desse desafio é identificar o clima da cidade pesquisada através do [Open Weather](https://openweathermap.org). onde foi necessário criar uma conta e uma API_KEY para conseguir consumir a API. 
+O intuito desse desafio é identificar o clima da cidade pesquisada através do [Open Weather](https://openweathermap.org).
+Foi necessário criar uma conta e uma API_KEY para conseguir consumir a API. 
 
 #  ⚙️Funcionalidades
 
